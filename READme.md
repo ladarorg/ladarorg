@@ -1,6 +1,6 @@
-# Project ATLAS
+# LADAR
 
-**ATLAS — Atmospheric Tracking & Local Analysis System**  
+**LADAR — Low Atmospheric Data Acqisution and Research
 A modular, drone-based platform for high-resolution measurement of the lower atmosphere, combining physics-based modeling and machine learning to reconstruct 3D environmental fields from sparse measurements.
 
 ---
